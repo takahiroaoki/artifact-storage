@@ -6,7 +6,7 @@
 
 ## Directories
 - README.md
-- ${project name}/${environment}/${artifact}
+- ${project name}/
 
 ## Projects
 
