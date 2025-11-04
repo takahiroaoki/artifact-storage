@@ -11,3 +11,4 @@
 ## Projects
 
 - [grpc-sample](https://github.com/takahiroaoki/grpc-sample)
+- [batch-hub](https://github.com/takahiroaoki/batch-hub)
